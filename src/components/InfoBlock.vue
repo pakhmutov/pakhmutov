@@ -38,6 +38,7 @@
 </template>
 
 <script setup lang="ts">
+import { useThemeStore } from '../store'
 import Socials from './Socials.vue'
 
 const changeTheme = () => {
@@ -46,9 +47,11 @@ const changeTheme = () => {
   if (theme === 'light') {
     localStorage.setItem('theme', 'dark')
     document.documentElement.dataset.theme = 'dark'
+    useThemeStore().setTheme('dark')
   } else {
     localStorage.setItem('theme', 'light')
     document.documentElement.dataset.theme = 'light'
+    useThemeStore().setTheme('light')
   }
 }
 </script>

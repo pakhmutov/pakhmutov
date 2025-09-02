@@ -8,6 +8,7 @@
     "build": "vue-tsc -b && vite build"
   },
   "dependencies": {
+    "pinia": "^3.0.3",
     "three": "^0.179.1",
     "vue": "^3.5.18"
   },

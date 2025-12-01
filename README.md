@@ -1,27 +1,48 @@
-# Hi, I'm Vladimir :)
+<h1 align="center">Hey?... I'm Vladimir</h1>
 
-Frontend Developer crafting beautiful, responsive, and user-friendly web experiences. Passionate about turning ideas into interactive interfaces! 🚀
+###
 
-## About me
-- 🎨 Specializing in **React**, **Vue**, and **TypeScript**
-- 🛠 Tools: **Figma**, **Tailwind CSS**, **Vite**
-- 🔭 Currently working on [e.g., "a Next.js dashboard app"]
-- 🌱 Learning [e.g., "WebGL, Three.js, or advanced a11y"]
-- 📫 Reach me at: [email, Telegram, LinkedIn]
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nuxt" height="60" alt="nuxt logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vitest" height="60" alt="vitest logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
+</div>
 
-## 🛠 Skills
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks/Libraries**: Vue, React
-- **Styling**: Tailwind CSS, Styled Components, Sass
-- **Tools**: Vite, Webpack, Figma, Storybook
-- **Testing**: Jest, Vitest
-- **Other**: REST API, GraphQL, Web Accessibility (a11y)
+###
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pakhmutov&show_icons=true&theme=dracula)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pakhmutov&layout=compact&theme=dracula)
+###
 
-## 🔗 Connect with Me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/matzutake)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/vladimirpakhmutovf5)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
